@@ -44,7 +44,7 @@ global.sdc = '-' //discord
 global.syt = 'https://youtube.com/@nainofc'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv'
-global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.media = 'https://telegra.ph/file/67efab3c53f2a7c6e5ce3.jpg'
 global.wame = 'https://wa.me/6288223674569'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
