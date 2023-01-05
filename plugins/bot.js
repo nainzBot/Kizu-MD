@@ -13,7 +13,7 @@ conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: { showAdAttributio
     description: tautanwa,
     title: `BOT ON ${name}`,
     body: bottime,
-    thumbnail: await(await fetch("https://telegra.ph/file/d35fe3e24a9c9ace7ed4d.jpg")).buffer(),
+    thumbnail: await(await fetch("https://telegra.ph/file/67efab3c53f2a7c6e5ce3.jpg")).buffer(),
     sourceUrl: syt
   }
   } }) 
