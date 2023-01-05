@@ -404,7 +404,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 │ ▸ 𝗧𝗶𝗺𝗲 : ${wktuwib}
 │ ▸ 𝗨𝗽𝘁𝗶𝗺𝗲 : ${mpt}
 └┬━━━━━━━━━━━━━━━━┈─⋆
-  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : YouTube ZykoBotz-MD Official 
+  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : https://github.com/nainzBot/Kizu-MD
   │ ▸ 𝗔𝘂𝘁𝗵𝗼𝗿 : ${nameown}
   │ ▸ 𝗢𝘄𝗻𝗲𝗿 : ${nameown}
   └━━━━━━━━━━━━━━━━┈─◂`
@@ -604,14 +604,14 @@ ptt: false, seconds: 0,contextInfo: {
  mediaUrl: 'tautanwa',
     mediaType: tautanwa, 
     description: tautanwa,
-    title: "SUBSCRIBE YT",
+    title: "JOIN GROUP BOT",
     body: bottime,
     thumbnail: await (await fetch(pp)).buffer(),
     sourceUrl: syt
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/67efab3c53f2a7c6e5ce3.jpg')).buffer()*/
 }
      }
     })
