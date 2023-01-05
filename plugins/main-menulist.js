@@ -655,7 +655,7 @@ ${emot}│☂︎ *Uptime:* ${mpt}
 │ *Ⓛ* = Limit
 ▣────────────⬣`
 let nomorwa = '0'
-let nomorowm1 = '6281386943282'
+let nomorowm1 = '6288223674569'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -665,10 +665,10 @@ let td = `${pickRandom([d1,d2,d3,d4,d5])}`
 let ᴛᴇs = `Pᴏᴡᴇʀ Bʏ ⬝ @${nomorwa.split`@`[0]}\nCʀᴇᴀᴛᴏʀ Bᴏᴛ ⬝ @${nomorown1.split`@`[0]}\n⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 let thummb = fs.readFileSync('./thumbnail.jpg')
 conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/4ece0195006cf1bc508ea.mp4', `${namebot}`, floor + text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/kabulsaputra21',
+    mediaUrl: 'https://www.instagram.com/dikaaxyz_',
     mediaType: 2, 
     description: sgc,
-    title: "ᴢ ʏ ᴋ ᴏ ʙ ᴏ ᴛ ᴢ ᴍ ᴅ ᴍ ᴜ ʟ ᴛ ɪ ᴅ ᴇ ᴠ ɪ ᴄ ᴇ",
+    title: "KIZU MULTI DEVICE",
     body: bottime,
     thumbnail: await (await fetch(pp)).buffer(),
     sourceUrl: sig
