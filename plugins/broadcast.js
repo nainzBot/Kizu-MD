@@ -39,7 +39,7 @@ let handler  = async (m, { conn, text }) => {
   conn.reply(m.chat, `Mengirim Broadcast Ke ${chats.length} Chat ${chats.length} `, m)
 
   for (let id of chats) {
-let bcbg = `${pickRandom(['https://telegra.ph/file/336eb96c3db52d0b24d5a.jpg', 'https://telegra.ph/file/f236870e09d90b11ac102.jpg','https://telegra.ph/file/782d80d72da9eb3113572.jpg','https://telegra.ph/file/52b5203f3c4a888b9ddcf.jpg','https://telegra.ph/file/d1939dab9770d12282180.jpg'])}`
+let bcbg = `${pickRandom(['https://telegra.ph/file/944aaf89cd33099a39036.jpg','https://telegra.ph/file/944aaf89cd33099a39036.jpg','https://telegra.ph/file/944aaf89cd33099a39036.jpg','https://telegra.ph/file/944aaf89cd33099a39036.jpg','https://telegra.ph/file/944aaf89cd33099a39036.jpg'])}`
 
        await conn.delay(1500)
 
